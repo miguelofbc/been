@@ -50,7 +50,7 @@
 - [ ] CN China
 - [ ] GE Georgia
 - [ ] IN India
-- [x] ID Indonesia
+- [ ] ID Indonesia
 - [ ] IR Iran
 - [ ] IQ Iraq
 - [ ] IL Israel
