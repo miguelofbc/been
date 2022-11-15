@@ -93,7 +93,7 @@
 - [ ] GL Greenland
 - [ ] MX Mexico
 - [ ] SJ Svalbard and Jan Mayen
-- [ ] US United States
+- [x] US United States
 
 # Central America
 
